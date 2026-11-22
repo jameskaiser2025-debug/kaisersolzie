@@ -1,0 +1,6 @@
+{
+  "name": "Kaiser Solzie — The 10 by 10 Rail Tour",
+  "description": "Official landing page, media hub, $10 set booking, and Amtrak Rail Pass logistics coordinator for Kaiser Solzie's 10 by 10 Tour.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
